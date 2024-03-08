@@ -46,8 +46,6 @@ Model Training: Train the selected models on the training data.
 
 Model Evaluation: Evaluate the performance of the models using appropriate metrics such as accuracy, precision, recall, and F1-score.
 
-Hyperparameter Tuning: Fine-tune the hyperparameters of the models to optimize performance.
-
 Model Comparison: Compare the performance of different models to identify the most effective one for the task.
 
 Deployment: Deploy the chosen model for real-world classification tasks
